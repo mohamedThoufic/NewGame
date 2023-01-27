@@ -13,4 +13,16 @@ public class Class1 {
 		// TODO Auto-generated method stub
 
 	}
+	private void test4() {
+		// TODO Auto-generated method stub
+
+	}
+	private void test5() {
+		// TODO Auto-generated method stub
+
+	}
+	private void test6() {
+		// TODO Auto-generated method stub
+
+	}
 }
